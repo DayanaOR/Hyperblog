@@ -1,4 +1,4 @@
-b body {
+body {
     color: rgb(0, 0, 0);
     text-align: center;
     font-style: normal;
@@ -35,5 +35,13 @@ b body {
 }
 
 #post{
-
+    padding: 1em;
 }
+
+#footer{
+    background: pink;
+    text-align: center;
+    border: 1rem;
+    padding: 1rem;
+}
+
