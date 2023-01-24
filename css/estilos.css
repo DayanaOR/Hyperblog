@@ -1,4 +1,4 @@
-body {
+b body {
     color: rgb(0, 0, 0);
     text-align: center;
     font-style: normal;
@@ -14,6 +14,11 @@ body {
     color: aliceblue;
     margin: 0;
     padding: 0.5rem;
+}
+
+#cabecera #logo{
+    width: 30px;
+    vertical-align: middle;
 }
 
 #cabecera #tagline{
@@ -35,7 +40,8 @@ body {
 }
 
 #post{
-    padding: 1em;
+    background: white;
+    padding: 1em;    padding: 1em;
 }
 
 #footer{
